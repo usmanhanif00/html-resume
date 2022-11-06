@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(238, 238, 239);
+}
+.intro{
+    text-align: center;
+}
+.intro h2{
+    color:rgb(40, 40, 40);
+}
+.name{
+    color: rgb(73, 175, 238);
+}
+.education ul{
+    list-style-type:square;
+    
+}
+.education h2{
+    color: rgb(73, 175, 238);
+}
+
+.skills h2{
+    color: rgb(73, 175, 238);
+}
+
+.experince h2{
+    color: rgb(73, 175, 238);
+}
+
+.projects h2{
+    color: rgb(73, 175, 238);
+
+}

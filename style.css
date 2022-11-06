@@ -1,0 +1,27 @@
+.contact { 
+    float: right; 
+    width: 320px; 
+    padding: 10px; 
+    border: 2px solid darkblue; 
+    margin-bottom: 600px; 
+    margin-top: 10px; 
+   } 
+   .header { 
+    float: center; 
+    border-top: 5px solid darkblue; 
+    border-bottom: 5px solid darkblue; 
+    padding-left: 40%; 
+   } 
+   .contact h2 {
+    color: darkblue; 
+} 
+.header h1 { 
+ color: darkblue; 
+} 
+.content hr { 
+ color: darkblue; 
+} 
+hr { 
+ border-top: 2px solid; 
+ margin-bottom: 1px; 
+}
